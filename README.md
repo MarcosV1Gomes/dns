@@ -40,7 +40,7 @@ Certifique-se de ter o Python 3.7+ instalado.
 ## Requisitos
 
 - Python 3.7 ou superior
-- Bibliotecas: `faker`, `matplotlib`, `pandas`, `numpy` (e outras listadas no requirements.txt)
+- Bibliotecas: `faker`, `matplotlib`, `pandas`, `numpy`, `seaborn` (e outras listadas no requirements.txt)
 
 ---
 
